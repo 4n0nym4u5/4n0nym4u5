@@ -9,7 +9,7 @@
 - 💣 CTF player @ [zh3r0](https://www.zh3r0.com/)
 - 💬 Ask me about Pwn (>‿◠)✌
 - 📫 How to reach me: [4n0nym4u5.netlify.app](https://4n0nym4u5.netlify.app/)
--   Contact me on ![](https://badges.aleen42.com/src/discord.svg) `4n0nym4u5#2475`
+-   Contact me on `4n0nym4u5#2475` ![](https://badges.aleen42.com/src/discord.svg)
 
 ---
 
