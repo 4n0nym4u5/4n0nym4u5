@@ -10,7 +10,7 @@
 - 💬 Ask me about Pwn (>‿◠)✌
 - 📫 How to reach me: [4n0nym4u5.netlify.app](https://4n0nym4u5.netlify.app/)
 -   Contact me on `4n0nym4u5#2475` ![](https://badges.aleen42.com/src/discord.svg)
--   I don't contribute to open source. I keep my repos private and work for them . 
+-   I don't contribute to open source. I keep my repos private and work for them. ✌
 
 ---
 
