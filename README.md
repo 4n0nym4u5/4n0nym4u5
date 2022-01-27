@@ -10,6 +10,7 @@
 - 💬 Ask me about Pwn (>‿◠)✌
 - 📫 How to reach me: [4n0nym4u5.netlify.app](https://4n0nym4u5.netlify.app/)
 -   Contact me on `4n0nym4u5#2475` ![](https://badges.aleen42.com/src/discord.svg)
+-   I don't contribute to open source. I keep my repos private and work for them . 
 
 ---
 
@@ -33,16 +34,5 @@
 <a href="https://github.com/4n0nym4u5/4n0nym4u5">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=4n0nym4u5&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="4n0nym4u5's GitHub Stats" />
 </a>
-
-<a href="https://github.com/4n0nym4u5/TheRedWheelBarrow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4n0nym4u5&repo=TheRedWheelBarrow&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/4n0nym4u5/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4n0nym4u5&repo=Lan-System-Controller
-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
 
 ---
