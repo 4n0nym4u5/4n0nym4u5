@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently pursuing Diploma Computer Science & Engg from Sri Jayachamrajendra (Govt) Polytechnic.
-- 🥋 Blue Belt in Hacking [PwnCollege](https://pwn.college/belts)
+- 🥋 #138th out of 28267 [Pwnabletw](https://pwnable.tw/user/17704)
 - 🌱 I like to do Exploit Development & Automating the boring stuffs with Python & Bash.
 - 💣 CTF player @ [zh3r0](https://www.zh3r0.com/)
 - 💬 Ask me about Pwn (>‿◠)✌
@@ -12,14 +12,14 @@
 
 ---
 
-![4n0nym4u5's github stats](https://github-readme-stats.vercel.app/api?username=mishrasunny174&show_icons=true&theme=dark)
+<!-- ![4n0nym4u5's github stats](https://github-readme-stats.vercel.app/api?username=mishrasunny174&show_icons=true&theme=dark) -->
 
 ---
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
