@@ -34,8 +34,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=4n0nym4u5&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="4n0nym4u5's GitHub Stats" />
 </a>
 
-<a href="https://github.com/4n0nym4u5/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4n0nym4u5&repo=GhostPhish&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/4n0nym4u5/TheRedWheelBarrow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4n0nym4u5&repo=TheRedWheelBarrow&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
