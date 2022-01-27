@@ -55,4 +55,4 @@
 
 <!-- Actual text -->
 
-<font size="3"> This is my text number1</font>  <img src="https://i.imgur.com/JLLlB5S.png" width="13px">
+<font size="3"> You can find me on </font> <a href="https://twitter.com/ArjunGU2"> <img src="https://i.imgur.com/JLLlB5S.png" width="13px"> </a>
