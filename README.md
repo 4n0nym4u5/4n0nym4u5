@@ -43,7 +43,15 @@
 
 ---
 
-## 
+## ✍ Recents Posts
+
+- [Asian Cyber Security Challenge 2021](https://4n0nym4u5.netlify.app/post/asian-cyber-security-challenge-2021/)
+- [InCTF Nationals 2021](https://4n0nym4u5.netlify.app/post/inctf-nationals-2021-mipsunderstanding/)
+- [0ctf 2021](https://4n0nym4u5.netlify.app/post/0ctf-2021-listbook/)
+
+➡️ [more blog posts...](https://4n0nym4u5.netlify.app/)
+
+
 
 <!-- Actual text -->
 
@@ -51,7 +59,7 @@ You can find me on [![Twitter][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://i.imgur.com/JLLlB5S.png (twitter icon without padding)
 
 <!-- Links to your social media accounts -->
 
