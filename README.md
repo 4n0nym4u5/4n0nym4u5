@@ -13,10 +13,6 @@
 
 ---
 
-<!-- ![4n0nym4u5's github stats](https://github-readme-stats.vercel.app/api?username=mishrasunny174&show_icons=true&theme=dark) -->
-
----
-
 ## 🔧 Tools
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Editor-Sublime%20Text-informational?style=for-the-badge&logo=sublime-text&logoColor=white&color=6272a4)
@@ -32,19 +28,20 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/4n0nym4u5/4n0nym4u5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4n0nym4u5&hide=html,Jupyter Notebook,text, css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4n0nym4u5&hide=html,Jupyter Notebook,text, css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/4n0nym4u5/4n0nym4u5">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=4n0nym4u5&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="4n0nym4u5's GitHub Stats" />
 </a>
 
 <a href="https://github.com/4n0nym4u5/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4n0nym4u5&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4n0nym4u5&repo=GhostPhish&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/4n0nym4u5/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4n0nym4u5&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4n0nym4u5&repo=Lan-System-Controller
+&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 
