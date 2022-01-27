@@ -18,9 +18,11 @@
 ---
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=6272a4)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Editor-Sublime%20Text-informational?style=for-the-badge&logo=sublime-text&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Code-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Assembly-x86_64-informational?style=for-the-badge&color=6272a4)
-![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Assembly-mips-informational?style=for-the-badge&color=6272a4)
+![](https://img.shields.io/badge/Assembly-arm-informational?style=for-the-badge&color=6272a4)
+![](https://img.shields.io/badge/Shell-ZSH-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
