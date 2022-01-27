@@ -56,6 +56,7 @@
 <!-- Actual text -->
 
 ## You can find me on [![Twitter][1.2]][1].
+<font size="1"> This is my text number1</font>  [![Twitter][1.2]][1].
 
 <!-- Icons -->
 
@@ -64,3 +65,4 @@
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/ArjunGU2
+
