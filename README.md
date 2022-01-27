@@ -55,14 +55,4 @@
 
 <!-- Actual text -->
 
-## You can find me on [![Twitter][1.2]][1].
-<font size="10px"> This is my text number1</font>  [![Twitter][1.2]][1].
-
-<!-- Icons -->
-
-[1.2]: https://i.imgur.com/JLLlB5S.png (twitter icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/ArjunGU2
-
+<font size="3"> This is my text number1</font>  <img src="https://i.imgur.com/JLLlB5S.png" width="13px">
