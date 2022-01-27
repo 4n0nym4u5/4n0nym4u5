@@ -16,7 +16,7 @@
 
 ---
 
-## 🔧 Tools
+## 🔧 Skills & Tools
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Editor-Sublime%20Text-informational?style=for-the-badge&logo=sublime-text&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=6272a4)
@@ -55,7 +55,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1].
+## You can find me on [![Twitter][1.2]][1].
 
 <!-- Icons -->
 
