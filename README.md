@@ -9,6 +9,7 @@
 - 💣 CTF player @ [zh3r0](https://www.zh3r0.com/)
 - 💬 Ask me about Pwn (>‿◠)✌
 - 📫 How to reach me: [4n0nym4u5.netlify.app](https://4n0nym4u5.netlify.app/)
+-   Contact me on ![](https://badges.aleen42.com/src/discord.svg) `4n0nym4u5#2475`
 
 ---
 
@@ -19,7 +20,7 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-![](https://img.shields.io/badge/Code-Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![](https://badges.aleen42.com/src/python.svg)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
