@@ -8,7 +8,7 @@
 - 🔭 I’m currently pursuing Diploma Computer Science & Engg from Sri Jayachamrajendra (Govt) Polytechnic.
 - 🥋 #138th out of 28267 [Pwnabletw](https://pwnable.tw/user/17704).
 - 🌱 I like to do Exploit Development & Automating the boring stuffs with Python & Bash.
-- 💣 CTF player @ [zh3r0](https://www.zh3r0.com/).
+- 💣 CTF player @ [Project Sekai](https://www.zh3r0.com/).
 - 💬 Ask me about Pwn (>‿◠)✌.
 - 📫 How to reach me: [4n0nym4u5.netlify.app](https://4n0nym4u5.netlify.app/).
 -   Contact me on Discord : `4n0nym4u5#2475`.
@@ -22,12 +22,7 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Code-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Assembly-x86_64-informational?style=for-the-badge&color=6272a4)
-![](https://img.shields.io/badge/Assembly-mips-informational?style=for-the-badge&color=6272a4)
-![](https://img.shields.io/badge/Assembly-arm-informational?style=for-the-badge&color=6272a4)
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=6272a4)
-![](https://aleen42.github.io/badges/src/illustrator.svg)
-![](https://aleen42.github.io/badges/src/premiere.svg)
-![](https://aleen42.github.io/badges/src/photoshop.svg)
 ![](https://badges.aleen42.com/src/hacker.svg)
 
 ---
