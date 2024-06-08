@@ -2,13 +2,13 @@
 
 ---
 
-[![Header](https://raw.githubusercontent.com/4n0nym4u5/4n0nym4u5/main/header.png "Header")](https://4n0nym4u5.netlify.app/)
+[![Header](https://raw.githubusercontent.com/4n0nym4u5/4n0nym4u5/main/header.png "Header")](https://4n0nym4u5.github.io/4n0nym4u5-tailwind/)
 
 
-- 🔭 I’m currently pursuing Diploma Computer Science & Engg from Sri Jayachamrajendra (Govt) Polytechnic.
+- 🔭 I’m currently pursuing B.E Information Science & Engineering in Bangalore Institute of Technology.
 - 🥋 #138th out of 28267 [Pwnabletw](https://pwnable.tw/user/17704).
 - 🌱 I like to do Exploit Development & Automating the boring stuffs with Python & Bash.
-- 💣 CTF player @ [Project Sekai](https://www.zh3r0.com/).
+- 💣 CTF player @ [Project Sekai](https://pjsk.team/).
 - 💬 Ask me about Pwn (>‿◠)✌.
 - 📫 How to reach me: [4n0nym4u5.netlify.app](https://4n0nym4u5.netlify.app/).
 -   Contact me on Discord : `4n0nym4u5#2475`.
@@ -40,11 +40,13 @@
 
 ## ✍ Recents Posts
 
+- [Pawnyable Linux Kernel Exploitation series](https://4n0nym4u5.github.io/4n0nym4u5-tailwind/blog/pawnyable)
+- [Wolv CTF 2024 pwn writeup](https://4n0nym4u5.github.io/4n0nym4u5-tailwind/blog/Wolv%20CTF%202024)
 - [Asian Cyber Security Challenge 2021](https://4n0nym4u5.netlify.app/post/asian-cyber-security-challenge-2021/)
 - [InCTF Nationals 2021](https://4n0nym4u5.netlify.app/post/inctf-nationals-2021-mipsunderstanding/)
 - [0ctf 2021](https://4n0nym4u5.netlify.app/post/0ctf-2021-listbook/)
 
-➡️ [more blog posts...](https://4n0nym4u5.netlify.app/)
+➡️ [more blog posts...](https://4n0nym4u5.github.io/4n0nym4u5-tailwind/)
 
 
 
