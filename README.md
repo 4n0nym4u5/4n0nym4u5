@@ -5,12 +5,12 @@
 [![Header](https://raw.githubusercontent.com/4n0nym4u5/4n0nym4u5/main/header.png "Header")](https://4n0nym4u5.github.io/4n0nym4u5-tailwind/)
 
 
-- 🔭 I’m currently pursuing B.E Information Science & Engineering in Bangalore Institute of Technology.
+- 🔭 I’m currently a final year B.E Information Science & Engineering in Bangalore Institute of Technology.
 - 🥋 #138th out of 28267 [Pwnabletw](https://pwnable.tw/user/17704).
 - 🌱 I like to do Exploit Development & Automating the boring stuffs with Python & Bash.
 - 💣 CTF player @ [Project Sekai](https://pjsk.team/).
 - 💬 Ask me about Pwn (>‿◠)✌.
-- 📫 How to reach me: [4n0nym4u5.netlify.app](https://4n0nym4u5.netlify.app/).
+- 📫 How to reach me: [4n0nym4u5.github.io]([https://4n0nym4u5.netlify.app/](https://4n0nym4u5.github.io/4n0nym4u5-tailwind/)).
 -   Contact me on Discord : `4n0nym4u5#2475`.
 -   I don't contribute to open source. I keep my repos private and work on them. ✌
 
